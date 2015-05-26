@@ -10,5 +10,6 @@ fasted gauss blur
 ![image](https://github.com/amazingyyc/fasted_gauss_blur/blob/master/pic/test.jpg)
 
 模糊后的图片
-![image](https://github.com/amazingyyc/fasted_gauss_blur/blob/master/pic/test.jpg)
+<>
+![image](https://github.com/amazingyyc/fasted_gauss_blur/blob/master/pic/20150526144147.jpg)
 
