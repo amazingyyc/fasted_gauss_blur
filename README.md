@@ -7,5 +7,8 @@ fasted gauss blur
 
 效果
 原始图片,670x455的分辨率
+![image](https://github.com/amazingyyc/fasted_gauss_blur/blob/master/pic/test.jpg)
+
 模糊后的图片
+![image](https://github.com/amazingyyc/fasted_gauss_blur/blob/master/pic/test.jpg)
 
